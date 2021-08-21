@@ -1,10 +1,10 @@
 {
-    "name": "CompressorBot",
+    "name": "Flashcompressorbot",
     "description": "A Normal Telegram Bot Which can Compress/encode/ Generate Samples of videos.",
-    "logo": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
+    "logo": "https://telegra.ph/file/b2a270eb237ddbdcca626.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
     "repository": "https://github.com/1Danish-00/CompressorBot",
-    "success_url": "https://t.me/BotzHub",
+    "success_url": "https://t.me/greatopfr",
     "stack": "container",
     "env": {
         "APP_ID": {
